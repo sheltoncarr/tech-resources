@@ -3,12 +3,12 @@
  This is a growing collection of machine learning blogs, articles, academic papers, practice problems, courses, lectures, illustrations, videos, books, people, repositories, and advice that I have discovered over the years. The main purpose of this repository is to share high-quality content covering everything from git to multi-head attention. Contribution is encouraged! If you add it, I'll read it.
 
 ### Table of Contents
-- [Machine Learning / Deep Learning 🤖](#machine-learning--deep-learning-)
-- [Software Engineering 🖥️](#software-engineering-)
-- [Data Structures & Algorithms ⚙️](#data-structures--algorithms-)
-- [Interview Prep 📖](#interview-prep-)
-- [People 🧑](#people-)
-- [Productivity Tips ⚡](#productivity-tips-)
+- [Machine Learning / Deep Learning](#machine-learning--deep-learning)
+- [Software Engineering](#software-engineering)
+- [Data Structures & Algorithms](#data-structures--algorithms)
+- [Interview Prep](#interview-prep)
+- [People](#people)
+- [Productivity Tips](#productivity-tips)
 
 ---
 
