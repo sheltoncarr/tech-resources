@@ -10,9 +10,7 @@
 - [People](#people)
 - [Productivity Tips](#productivity-tips)
 
----
-
-## Machine Learning / Deep Learning 🤖
+## Machine Learning / Deep Learning
 
 * Academic Papers 📜
     - [Mastering the game of Go with deep neural networks and tree search (2016)](https://www.researchgate.net/publication/292074166_Mastering_the_game_of_Go_with_deep_neural_networks_and_tree_search)
@@ -70,7 +68,7 @@
     - [An Overview of Monte Carlo Methods](https://towardsdatascience.com/an-overview-of-monte-carlo-methods-675384eb1694)
     - [Monte Carlo Simulation (John Guttag)](https://www.youtube.com/watch?v=OgO1gpXSUzU)
 
-## Software Engineering 🖥️
+## Software Engineering
 
 * [What Does Larger Scale Software Development Look Like?](https://www.youtube.com/watch?v=Dl-BdxNRUqs)
 * [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg)
@@ -86,7 +84,7 @@
 * [The Only Cloud Services You Actually Need to Know (NeetCode)](https://www.youtube.com/watch?v=gcfB8iIPtbY)
 * [AWS Whitepapers & Guides](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-global-methodology=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all)
 
-## Data Structures & Algorithms ⚙️
+## Data Structures & Algorithms
 
 * [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
 * [NeetCode 150](https://neetcode.io/practice)
@@ -94,14 +92,14 @@
 * [AlgoMonster](https://algo.monster/problems/stats)
 * [Data Structures & Algorithms (Google Tech Dev Guide)](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?no-filter=true)
 
-## Interview Prep 📖
+## Interview Prep
 
 * [Software Engineer Interviews: Everything You Need to Prepare](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [Introduction to Machine Learning Interviews (Chip Huyen)](https://huyenchip.com/ml-interviews-book/)
 * [Machine Learning Systems Design Interview Questions (Chip Huyen)](https://huyenchip.com/machine-learning-systems-design/toc.html)
 
-## People 🧑
+## People
 
 * Andrej Karpathy
     - [Personal Website](https://karpathy.ai/) 
@@ -119,7 +117,7 @@
 * Jay Alammar
     - [Blog](https://jalammar.github.io/)
 
-## Productivity Tips ⚡
+## Productivity Tips
 
 * [Efficiency Tips for Engineers (From An AI Researcher + Stanford PhD)](https://www.youtube.com/watch?v=b33vqX74EcA)
 * [VS Code Shortcuts (Windows)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
